@@ -1,6 +1,6 @@
 {
-  "name": "HttpClient",
-  "author": "Nils Mattisson <nils.mattisson@gmail.com>",
+  "name": "HttpClient-Greenopia",
+  "author": "Nils Mattisson <nils.mattisson@gmail.com>,sbose <sbose@greenopia.co>",
   "license": "MIT",
   "version": "0.0.4",
   "description": "A work in progress Http Client Library for the Spark Core and Arduino."
